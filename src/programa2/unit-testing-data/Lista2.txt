@@ -1,0 +1,52 @@
+linea;
+linea;
+linea;
+		        
+class Lista
+		
+	linea;
+		linea;
+		linea;
+  
+    
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+
+		linea;
+		linea;
+		linea;
+		linea;
+
+    
+		linea;
+		linea;
+		linea;		
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+
+		linea;
+	
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+
+
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;

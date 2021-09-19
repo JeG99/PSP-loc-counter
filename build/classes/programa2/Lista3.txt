@@ -1,0 +1,52 @@
+linea;
+linea;
+linea;
+		        
+class Lista
+		
+	linea;
+		linea;
+		linea;
+  
+    
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+
+		linea;
+		linea;
+		linea;
+		linea;
+		string number = "hola esto no debería contabilizarse //.b=6";
+    
+		linea;
+		linea;
+		linea;		
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+
+		linea;
+	
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+
+
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
+		linea;
